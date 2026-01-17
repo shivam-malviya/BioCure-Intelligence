@@ -1,0 +1,15 @@
+## These are the requirements which is needed to build and run this App 
+
+streamlit
+langchain
+langchain-community
+langchain-classic
+langchain-chroma
+langchain-google-genai
+langchain-unstructured
+sentence-transformers
+transformers
+torch
+chromadb
+unstructured
+python-magic-bin
